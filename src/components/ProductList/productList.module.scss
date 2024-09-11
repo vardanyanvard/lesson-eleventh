@@ -1,0 +1,9 @@
+.productsListContent {
+  width: 90%;
+  box-shadow: 0 0 4px rgb(62, 61, 61);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 5px;
+  padding: 16px;
+}

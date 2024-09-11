@@ -1,0 +1,10 @@
+.basketItemsbtns {
+  & button {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 4px rgb(74, 3, 3);
+  }
+}
